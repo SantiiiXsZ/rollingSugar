@@ -36,6 +36,17 @@
   font-size: var(--tamano-texto-derechos);
 }
 
+/* *SECCIÓN COMUNIDAD */
+
+.comunidad h2 {
+  font-weight: 300;
+}
+
+.comunidad img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
 .imgK {
   width: 100%;
   height: 70vh;
