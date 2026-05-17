@@ -1,7 +1,7 @@
 :root {
   --color-azul-principal: #0d6efd;
   --color-blanco: #ffffff;
-  --color-linea-footer: rgba(255, 255, 255, 0.5);
+  --color-linea-footer: #d6d8f1de;
   --tamano-titulo-footer: 1.1rem;
   --tamano-iconos-redes: 2rem;
   --tamano-texto-derechos: 0.85rem;
@@ -47,3 +47,18 @@
   height: 250px;
   object-fit: cover;
 }
+.imgK {
+  width: 100%;
+  height: 70vh;
+  object-fit: cover;
+}
+
+/*  al navbar no se le nota el fondo la clase "bg-body-tertiary" no se le aplica
+.nav-bg-color{
+  background-color:#c9d1ec ;
+} */
+.color-lista-ingredientes{
+  color: #023b90;
+  background: #a0c9f1;
+ }
+ 
