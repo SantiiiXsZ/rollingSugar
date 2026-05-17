@@ -36,8 +36,8 @@
   font-size: var(--tamano-texto-derechos);
 }
 
-.imgK{
-    width: 100%;
-    height: 70vh;
-    object-fit: cover;
+.imgK {
+  width: 100%;
+  height: 70vh;
+  object-fit: cover;
 }
